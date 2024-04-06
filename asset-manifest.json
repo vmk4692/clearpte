@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/clearpte/static/css/main.f855e6bc.css",
-    "main.js": "/clearpte/static/js/main.d34b7da8.js",
+    "main.css": "/clearpte/static/css/main.6cececc6.css",
+    "main.js": "/clearpte/static/js/main.0d67d313.js",
     "static/js/453.bfb9c91a.chunk.js": "/clearpte/static/js/453.bfb9c91a.chunk.js",
+    "static/media/banner-bg.jpg": "/clearpte/static/media/banner-bg.cbaf321f975b68fdb9d9.jpg",
+    "static/media/Logo.svg": "/clearpte/static/media/Logo.13e882605a4625c0d0c3dcc2d5f6d4fa.svg",
     "static/media/logo.svg": "/clearpte/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/clearpte/index.html",
-    "main.f855e6bc.css.map": "/clearpte/static/css/main.f855e6bc.css.map",
-    "main.d34b7da8.js.map": "/clearpte/static/js/main.d34b7da8.js.map",
+    "main.6cececc6.css.map": "/clearpte/static/css/main.6cececc6.css.map",
+    "main.0d67d313.js.map": "/clearpte/static/js/main.0d67d313.js.map",
     "453.bfb9c91a.chunk.js.map": "/clearpte/static/js/453.bfb9c91a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.d34b7da8.js"
+    "static/css/main.6cececc6.css",
+    "static/js/main.0d67d313.js"
   ]
 }
